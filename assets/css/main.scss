@@ -72,3 +72,11 @@
 
     "custom"
 ;
+
+/* Force site title / brand color in header */
+.header a,
+.header .brand,
+.header .brand a {
+  color: #111111 !important;
+}
+
